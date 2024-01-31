@@ -10,7 +10,7 @@ License plate recognition systems consist of two modules: detection and Optical 
 **Output Example:** 皖AD16688
 
 ## Solution Architecture
-The proposed solution involves implementing a model consisting of two blocks: Fully-convolutional CNN (FCNN) and Bi-LSTM. It is recommended to use Connectionist Temporal Classification Loss for the output.
+The solution involves implementing a model consisting of two blocks: Fully-convolutional CNN (FCNN) and Bi-LSTM. It is recommended to use Connectionist Temporal Classification Loss for the output.
 
 
 Architecture:
